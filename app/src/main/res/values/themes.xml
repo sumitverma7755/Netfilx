@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.Netfix" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/netflix_black</item>
+        <item name="android:windowBackground">@color/netflix_black</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/netflix_light_gray</item>
+    </style>
+    
+    <!-- Splash screen theme -->
+    <style name="Theme.Netfix.Splash" parent="Theme.Netfix">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/netflix_black</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    
+    <!-- Core splash screen theme -->
+    <style name="Theme.Netfix.Core.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/netflix_black</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_logo</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.Netfix</item>
+    </style>
+</resources>

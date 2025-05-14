@@ -1,0 +1,5 @@
+name: Code Generation Standards
+version: 0.0.1
+rules:
+  - Use clear, imperative language and format code blocks according to the
+    specified guidelines.

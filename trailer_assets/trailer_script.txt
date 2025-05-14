@@ -1,0 +1,43 @@
+NETFIX APP TRAILER SCRIPT
+
+[SCENE 1: INTRO]
+- Fade in from black
+- Show Netfix logo animation
+- Text overlay: "Introducing Netfix - Your Ultimate Streaming Experience"
+
+[SCENE 2: USER PROFILES]
+- Show profile selection screen
+- Text overlay: "Personalized profiles for everyone"
+- Demonstrate switching between different user profiles
+- Show how preferences are saved per profile
+
+[SCENE 3: MOVIE CATEGORIES]
+- Showcase different movie categories
+- Text overlay: "Discover content across genres"
+- Show scrolling through Action, Comedy, Drama, Sci-Fi, and Documentary categories
+- Highlight the clean UI and smooth animations
+
+[SCENE 4: MOVIE DETAILS]
+- Show a movie details screen
+- Text overlay: "Detailed information at your fingertips"
+- Highlight movie information: title, description, duration, year, and rating
+- Show the play button animation
+
+[SCENE 5: VIDEO PLAYBACK]
+- Show video playback interface
+- Text overlay: "Seamless streaming experience"
+- Demonstrate playback controls
+- Show quality options and full-screen mode
+
+[SCENE 6: PERSONALIZATION]
+- Show recommended content based on user preferences
+- Text overlay: "Personalized recommendations just for you"
+- Demonstrate how the app learns from viewing habits
+
+[SCENE 7: CLOSING]
+- Return to Netfix logo
+- Text overlay: "Netfix - Stream Smarter"
+- Call to action: "Download Now"
+- Fade to black
+
+TOTAL DURATION: 1-2 minutes
