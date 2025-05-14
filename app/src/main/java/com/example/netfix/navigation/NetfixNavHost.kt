@@ -85,6 +85,9 @@ fun NetfixNavHost(
             SettingsScreen(
                 onBackClick = {
                     navController.popBackStack()
+                },
+                onLMStudioClick = {
+                    navController.navigate("lm_studio_connection")
                 }
             )
         }
